@@ -1,0 +1,5 @@
+{
+  "mcd_token": "YOUR_MCP_TOKEN_HERE",
+  "auto_claim_on_start": false,
+  "notification_enabled": true
+}
