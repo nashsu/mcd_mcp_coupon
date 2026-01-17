@@ -1,3 +1,7 @@
+# About
+
+本程序是基于麦当劳官方MCP协议，使用 OpenCode 基于 Sonnet4.5 全自动开发，目的是测试 OpenCode、Sonnet4.5 以及 vibe coding 的能力。
+
 # 麦当劳优惠券自动领取工具
 
 基于麦当劳MCP协议的Python自动领券工具，帮助您快速领取麦当劳优惠券。
